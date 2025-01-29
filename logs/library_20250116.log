@@ -1,0 +1,10 @@
+2025-01-16 23:46:19,943 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-16T23:46:19.943817', 'details': {'username': 'admin'}}
+2025-01-16 23:47:23,670 - library - INFO - {'action': 'logout', 'user_id': 1, 'timestamp': '2025-01-16T23:47:23.670825', 'details': {'username': 'admin'}}
+2025-01-16 23:47:25,519 - library - INFO - {'action': 'logout', 'user_id': 1, 'timestamp': '2025-01-16T23:47:25.519625', 'details': {'username': 'admin'}}
+2025-01-16 23:47:26,327 - library - INFO - {'action': 'logout', 'user_id': 1, 'timestamp': '2025-01-16T23:47:26.326551', 'details': {'username': 'admin'}}
+2025-01-16 23:47:26,503 - library - INFO - {'action': 'logout', 'user_id': 1, 'timestamp': '2025-01-16T23:47:26.503616', 'details': {'username': 'admin'}}
+2025-01-16 23:48:37,785 - library - INFO - {'action': 'logout', 'user_id': 1, 'timestamp': '2025-01-16T23:48:37.785596', 'details': {'username': 'admin'}}
+2025-01-16 23:52:40,512 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-16T23:52:40.512976', 'details': {'username': 'admin'}}
+2025-01-16 23:55:31,694 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-16T23:55:31.694643', 'details': {'username': 'admin'}}
+2025-01-16 23:56:58,415 - library - INFO - {'action': 'logout', 'user_id': 1, 'timestamp': '2025-01-16T23:56:58.415399', 'details': {'username': 'admin'}}
+2025-01-16 23:57:48,490 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-16T23:57:48.490427', 'details': {'username': 'admin'}}

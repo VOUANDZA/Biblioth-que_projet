@@ -1,0 +1,2 @@
+2025-01-29 14:46:58,107 - library - INFO - {'action': 'login_success', 'user_id': 10, 'timestamp': '2025-01-29T14:46:58.107914', 'details': {'username': 'ced'}}
+2025-01-29 14:47:59,761 - library - INFO - {'action': 'logout', 'user_id': 10, 'timestamp': '2025-01-29T14:47:59.760159', 'details': {'username': 'ced'}}

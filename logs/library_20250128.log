@@ -1,0 +1,12 @@
+2025-01-28 19:22:47,516 - library - INFO - {'action': 'login_success', 'user_id': 8, 'timestamp': '2025-01-28T19:22:47.515190', 'details': {'username': 'admin'}}
+2025-01-28 19:23:59,540 - library - INFO - {'action': 'logout', 'user_id': 8, 'timestamp': '2025-01-28T19:23:59.540268', 'details': {'username': 'admin'}}
+2025-01-28 19:25:47,106 - library - INFO - {'action': 'login_failed', 'user_id': None, 'timestamp': '2025-01-28T19:25:47.106249', 'details': {'username': 'toto', 'reason': 'Invalid credentials'}}
+2025-01-28 19:31:34,997 - library - INFO - {'action': 'login_success', 'user_id': 8, 'timestamp': '2025-01-28T19:31:34.996258', 'details': {'username': 'admin'}}
+2025-01-28 19:31:56,656 - library - INFO - {'action': 'logout', 'user_id': 8, 'timestamp': '2025-01-28T19:31:56.656425', 'details': {'username': 'admin'}}
+2025-01-28 19:32:04,333 - library - INFO - {'action': 'login_success', 'user_id': 10, 'timestamp': '2025-01-28T19:32:04.333109', 'details': {'username': 'ced'}}
+2025-01-28 19:34:15,255 - library - INFO - {'action': 'logout', 'user_id': 10, 'timestamp': '2025-01-28T19:34:15.255998', 'details': {'username': 'ced'}}
+2025-01-28 19:34:27,494 - library - INFO - {'action': 'login_success', 'user_id': 8, 'timestamp': '2025-01-28T19:34:27.494090', 'details': {'username': 'admin'}}
+2025-01-28 19:36:25,385 - library - INFO - {'action': 'logout', 'user_id': 8, 'timestamp': '2025-01-28T19:36:25.385791', 'details': {'username': 'admin'}}
+2025-01-28 19:36:44,791 - library - INFO - {'action': 'login_failed', 'user_id': None, 'timestamp': '2025-01-28T19:36:44.791349', 'details': {'username': 'Ced', 'reason': 'Invalid credentials'}}
+2025-01-28 19:36:52,719 - library - INFO - {'action': 'login_success', 'user_id': 10, 'timestamp': '2025-01-28T19:36:52.719547', 'details': {'username': 'ced'}}
+2025-01-28 19:39:40,653 - library - INFO - {'action': 'logout', 'user_id': 10, 'timestamp': '2025-01-28T19:39:40.652287', 'details': {'username': 'ced'}}

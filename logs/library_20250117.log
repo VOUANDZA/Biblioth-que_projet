@@ -1,0 +1,30 @@
+2025-01-17 00:00:38,087 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:00:38.087458', 'details': {'username': 'admin'}}
+2025-01-17 00:00:41,806 - library - ERROR - {'error': 'document_return_failed', 'user_id': 1, 'timestamp': '2025-01-17T00:00:41.806521', 'details': {'document_id': 2}}
+2025-01-17 00:00:46,757 - library - ERROR - {'error': 'document_return_failed', 'user_id': 1, 'timestamp': '2025-01-17T00:00:46.757756', 'details': {'document_id': 2}}
+2025-01-17 00:04:32,278 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:04:32.278300', 'details': {'username': 'admin'}}
+2025-01-17 00:04:37,632 - library - INFO - {'action': 'document_returned', 'user_id': 1, 'timestamp': '2025-01-17T00:04:37.632389', 'details': {'document_id': 3}}
+2025-01-17 00:05:21,554 - library - INFO - {'action': 'document_returned', 'user_id': 1, 'timestamp': '2025-01-17T00:05:21.554072', 'details': {'document_id': 3}}
+2025-01-17 00:10:20,511 - library - INFO - {'action': 'logout', 'user_id': 1, 'timestamp': '2025-01-17T00:10:20.511383', 'details': {'username': 'admin'}}
+2025-01-17 00:10:29,407 - library - INFO - {'action': 'login_success', 'user_id': 2, 'timestamp': '2025-01-17T00:10:29.407836', 'details': {'username': 'toto'}}
+2025-01-17 00:10:37,019 - library - INFO - {'action': 'document_returned', 'user_id': 2, 'timestamp': '2025-01-17T00:10:37.019244', 'details': {'document_id': 1}}
+2025-01-17 00:23:47,071 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:23:47.071235', 'details': {'username': 'admin'}}
+2025-01-17 00:26:12,849 - library - INFO - {'action': 'logout', 'user_id': 1, 'timestamp': '2025-01-17T00:26:12.849723', 'details': {'username': 'admin'}}
+2025-01-17 00:26:17,963 - library - INFO - {'action': 'login_success', 'user_id': 2, 'timestamp': '2025-01-17T00:26:17.963636', 'details': {'username': 'toto'}}
+2025-01-17 00:32:17,021 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:32:17.020519', 'details': {'username': 'admin'}}
+2025-01-17 00:32:17,037 - library - ERROR - {'error': 'login_error', 'user_id': None, 'timestamp': '2025-01-17T00:32:17.037591', 'details': {'username': 'admin', 'error': "'NoneType' object has no attribute 'update'"}}
+2025-01-17 00:32:59,846 - library - INFO - {'action': 'login_failed', 'user_id': None, 'timestamp': '2025-01-17T00:32:59.845709', 'details': {'username': 'admin', 'reason': 'Invalid credentials'}}
+2025-01-17 00:33:12,750 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:33:12.750612', 'details': {'username': 'admin'}}
+2025-01-17 00:33:12,768 - library - ERROR - {'error': 'login_error', 'user_id': None, 'timestamp': '2025-01-17T00:33:12.768781', 'details': {'username': 'admin', 'error': "'NoneType' object has no attribute 'update'"}}
+2025-01-17 00:34:45,225 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:34:45.225018', 'details': {'username': 'admin'}}
+2025-01-17 00:40:27,322 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:40:27.322838', 'details': {'username': 'admin'}}
+2025-01-17 00:40:51,077 - library - INFO - {'action': 'demande_annulee', 'user_id': 1, 'timestamp': '2025-01-17T00:40:51.077956', 'details': {'demande_id': 9}}
+2025-01-17 00:48:53,270 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:48:53.270672', 'details': {'username': 'admin'}}
+2025-01-17 00:55:50,487 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:55:50.487923', 'details': {'username': 'admin'}}
+2025-01-17 00:59:33,071 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T00:59:33.071956', 'details': {'username': 'admin'}}
+2025-01-17 01:02:12,033 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T01:02:12.033044', 'details': {'username': 'admin'}}
+2025-01-17 01:06:31,887 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T01:06:31.887643', 'details': {'username': 'admin'}}
+2025-01-17 01:09:19,654 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T01:09:19.654575', 'details': {'username': 'admin'}}
+2025-01-17 20:56:34,167 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T20:56:34.167079', 'details': {'username': 'admin'}}
+2025-01-17 21:00:09,407 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T21:00:09.407846', 'details': {'username': 'admin'}}
+2025-01-17 21:04:52,383 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T21:04:52.383722', 'details': {'username': 'admin'}}
+2025-01-17 21:09:35,120 - library - INFO - {'action': 'login_success', 'user_id': 1, 'timestamp': '2025-01-17T21:09:35.120379', 'details': {'username': 'admin'}}

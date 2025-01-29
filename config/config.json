@@ -1,0 +1,8 @@
+{
+    "theme": "light",
+    "session_duration": 7200,
+    "max_login_attempts": 3,
+    "log_level": "INFO",
+    "db_file": "bibliotheque.db",
+    "secret_key": "your-secret-key-change-this"
+}
